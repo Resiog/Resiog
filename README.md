@@ -20,5 +20,5 @@ Navegar sin hundirse 🌀, pescar peces pequeños 🎣 y destilar algo de agua �
 Mejorar la barca ⛵ y saludar a otros navegantes 🙋.
 
 > [!IMPORTANT]
-> ##### Descripción  y niveles posteriores no desbloqueado.
+> ##### Descripción  y niveles posteriores no desbloqueados, todavía.
 
