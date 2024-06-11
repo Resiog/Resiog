@@ -12,7 +12,7 @@ Construir barca, remos y procurar que flote 🚣.
 > ##### Objetivo: Entrar en empresa tecnológica (¡y mantenerme!) 
 
 ## ✨Level 2✨: 
-Navegar sin hundirse 🌀, pescar peces pequeños 🎣 y destilar algo de agua 💧.
+Pescar peces pequeños 🎣 y destilar algo de agua 💧.
 > [!TIP]
 > ##### Objetivo: Empezar desarrollo de proyectos.
 
