@@ -1,10 +1,10 @@
-# ¡Hola!, mi nombre es Sergio Medina
+# ¡Hola, mi nombre es Sergio Medina!
 
 Aspiro a ser desarrollador de aplicaciones multiplataforma.
 
-Inicialmente mi trayectoria profesional recorría la rama del derecho, trabajando para empresas del sector jurídico, siendo abogado y finalmente gestor de casos judiciales. No obstante, siempre me ha gustado la vía tecnológica y el poder desarrollar proyectos propios por lo que finálmente he terminado desembocando a orillas de este vasto oceano que pretendo navegar en su máxima extensión 🌊.
+Inicialmente empecé y recorrí la rama del derecho desde donde pude ejercer funciones para empresas en el sector legal, así como ser abogado y gestor jurídico. No obstante, siempre me ha fascinado la rama tecnológica, la innovación y el futuro, así como aspirar a poder desarrollar apps y videojuegos que mentálmente se me han ido ocurriendo a lo largo de los años. Ha sido la abundancia de esto último, junto a observar cómo la vía tecnológica no para de proporcionar frutas y desarrollarse sin un aparente fin, lo que me ha impulsado a iniciar este cambio profesional y, gracias a ello, he terminado desembocando a orillas de este vasto oceano que pretendo navegar en su máxima extensión 🌊.
 
-Siguiendo la analogía del mar, reflejaré mis progresos mediante niveles.
+Siguiendo la analogía del mar, reflejaré mis aspiraciones y progresos mediante niveles 😁.
 
 ## ✨Level 1✨: _En progreso_
 Construir barca, remos y procurar que flote 🚣. 
